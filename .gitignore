@@ -1,5 +1,5 @@
-.class
+*.class
 .idea/
-.iml
+*.iml
 out/
 .vscode/
